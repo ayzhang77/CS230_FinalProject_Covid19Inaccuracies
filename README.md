@@ -6,7 +6,8 @@ This repo contains the code for _A Deep Learning Approach to Population Level CO
 by Sameer Sundrani (sundrani) and Amy Zhang (ayzhang)
 
 Files available:
-Code.ipynb: iPython notebook detailing all milestone level relevant dataset preparation and modelling. 
-Final Code.ipynb: iPython notebook detailing all final project level relevant dataset preparation and modelling. 
+- Code.ipynb: iPython notebook detailing all milestone level relevant dataset preparation and modelling. 
+- Final Code.ipynb: iPython notebook detailing all final project level relevant dataset preparation and modelling. 
+- CS_230_Final_Project-4.pdf: final project writeup detailing project goals, methods and analysis
 
-Contact sundrani@stanford.edu with any questions!
+Contact ayzhang@stanford.edu with any questions!
