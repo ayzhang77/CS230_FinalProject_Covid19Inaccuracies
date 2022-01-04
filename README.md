@@ -1,4 +1,4 @@
-# CS230_FinalProject_Covid19Inaccuracies
+# CS230 Final Project
 
 
 This repo contains the code for _A Deep Learning Approach to Population Level COVID-19 Case Prediction in the US_
