@@ -1,7 +1,9 @@
 # CS230 Final Project
 
 
-This repo contains the code for _A Deep Learning Approach to Population Level COVID-19 Case Prediction in the US_
+This repo contains the code for _A Deep Learning Approach to Population Level COVID-19 Case Prediction in the US_.
+
+Recieved Outstanding Project Award for CS230 Fall 2021.
 
 by Sameer Sundrani (sundrani) and Amy Zhang (ayzhang)
 
